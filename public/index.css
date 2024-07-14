@@ -3,7 +3,7 @@
 body {
   font-family: "Roboto", Arial, Helvetica, sans-serif;
   margin: 0;
-  background: #133;
+  background: #ffffff;
   display: flex;
   flex-direction: column;
   min-height: 100vh;
