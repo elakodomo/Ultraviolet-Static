@@ -139,7 +139,7 @@ footer a:hover {
 
 #uv-address:focus {
   border: 1px solid rgba(3, 3, 3, 0.514);
-  border-radius: 6px;
+  border-radius: 3px;
 }
 
 .credit {
